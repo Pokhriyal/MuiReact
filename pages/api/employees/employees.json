@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "firstName": "Aron",
+    "lastName": "Childress",
+    "email": "aron.childress@gmail.com",
+    "phone": "414-335-7851",
+    "permissionLevel": "Master Admin",
+    "shops": ["Los Angeles"]
+  },
+  {
+    "id": "2",
+    "firstName": "Kevin",
+    "lastName": "McMasters",
+    "email": "kevin.mcmasters@gmail.com",
+    "phone": "310-879-0031",
+    "permissionLevel": "Shop Admin",
+    "shops": ["Los Angeles", "Valencia"]
+  },
+  {
+    "id": "3",
+    "firstName": "Travis",
+    "lastName": "Childress",
+    "email": "tavis.childress@gmail.com",
+    "phone": "414-335-5852",
+    "permissionLevel": "Employee",
+    "shops": ["Los Angeles", "Valencia", "Alisa Viejo"]
+  }
+]
